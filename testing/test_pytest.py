@@ -14,5 +14,5 @@ class TestCalc:
         print(result)
         assert 1==result
 if __name__ == '__main__':
-    #pytest.main(['-vs','test_pytest.py::TestCalc::test_div_1','test_pytest.py::TestCalc::test_add_1'])1231111111111111111111111AAAAAAAAAAAAAAAA111
+    #pytest.main(['-vs','test_pytest.py::TestCalc::test_div_1','test_pytest.py::TestCalc::test_add_1'])
     pytest.main()
