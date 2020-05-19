@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # type hints 类型提示
+from  decimal import Decimal
 class Calc:
 
     def add(self, a: int, b: int):
