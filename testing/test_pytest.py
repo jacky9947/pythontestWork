@@ -5,7 +5,7 @@ import sys
 import yaml
 import pytest
 import allure
-from  decimal import Decimal
+
 sys.path.append("..")
 class YamlData:
     def __init__(self,data_path):
