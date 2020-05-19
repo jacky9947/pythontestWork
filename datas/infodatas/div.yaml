@@ -2,7 +2,7 @@ norm:
   -
     a: 5
     b: 5
-    res: 1
+    res: 11
   -
     a: 1
     b: 3
@@ -17,7 +17,7 @@ norm:
     res: 0.3333
   -
     a: -1
-    b: 3
+    b: 0
     res: -0.33333
 except:
     -
